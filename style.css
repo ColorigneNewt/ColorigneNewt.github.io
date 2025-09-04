@@ -1,7 +1,7 @@
 body
 
 { 
-    background-color: rgb(203, 255, 255);
+    background-color: rgb(112, 50, 136);
 
 } 
 
@@ -9,10 +9,10 @@ P
 
 { 
     color:rgb(0, 0, 0);
-    font: weight 600px;
+    font: weight 800px;
 
 }
 
 div {
-max-width: 800px;    
+max-width: 1000px;    
 }
