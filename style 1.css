@@ -1,0 +1,18 @@
+body
+
+{ 
+    background-color: rgb(103, 154, 221);
+
+} 
+
+P
+
+{ 
+    color:rgb(0, 0, 0);
+    font: weight 800px;
+
+}
+
+div {
+max-width: 1000px;    
+}
